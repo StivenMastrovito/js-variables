@@ -29,3 +29,5 @@ console.log(sum); // Output: 56
 const numBytes = 
 (numOne + numTwo + numThree) / numOne;
 console.log(numBytes); // Output: 7
+
+
